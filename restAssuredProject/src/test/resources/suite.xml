@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Daily finance automation with RestAssured">
+    <test name="API automation with restassured">
+        <classes>
+            <class name="DailyFinanceTestRunner"></class>
+        </classes>
+    </test>
+</suite>

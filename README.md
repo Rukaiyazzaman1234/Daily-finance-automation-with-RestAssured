@@ -2,17 +2,18 @@
 
 In this project, a Postman collection was created by inspecting API requests from the website dailyfinance.roadtocareer.net. The collection includes APIs for various features, such as:
 
-Registering a new user
-Admin login
-Retrieving a user list
-Searching for a new user by user ID
-Editing user information
-User login (any user)
-Retrieving an item list
-Adding items
-Editing item names
-Deleting items from the list
-Implementing several negative test cases
+. Registering a new user
+. Admin login
+. Retrieving a user list
+. Searching for a new user by user ID
+. Editing user information
+. User login (any user)
+. Retrieving an item list
+. Adding items
+. Editing item names
+. Deleting items from the list
+. Implementing several negative test cases
+
 The API collection was then automated using RestAssured, with TestNG as the testing framework, and an Allure Report was generated to present the test results.
 
 # Technology used:

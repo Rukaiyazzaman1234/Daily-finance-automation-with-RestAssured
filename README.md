@@ -2,7 +2,7 @@
 
 In this project, a Postman collection was created by inspecting API requests from the website dailyfinance.roadtocareer.net. The collection includes APIs for various features, such as:
 
-. Registering a new user
+* Registering a new user
 . Admin login
 . Retrieving a user list
 . Searching for a new user by user ID
